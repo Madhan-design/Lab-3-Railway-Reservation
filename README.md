@@ -18,8 +18,17 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-
-
-
+### UseCase Diagram:
+![image](https://github.com/user-attachments/assets/1f884ca4-6336-46ba-9cbf-b217f43dc40a)
+### Class Diagram:
+![image](https://github.com/user-attachments/assets/9d1cba4b-0952-4b6d-8936-a8a17b577c36)
+### Activity Diagram:
+![image](https://github.com/user-attachments/assets/d52ff3cd-12b8-4815-aa23-e60330ea883a)
+### Package Diagram:
+![image](https://github.com/user-attachments/assets/78e343e7-8e3b-4d2a-bb65-6bdf0a6dffb7)
+### Communication Diagram:
+![image](https://github.com/user-attachments/assets/252a0d48-5288-437c-8d3a-86d43859c59a)
+### Sequence Diagram:
+![image](https://github.com/user-attachments/assets/a59b93e3-c429-4f4c-8ea7-95651b81b85d)
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
