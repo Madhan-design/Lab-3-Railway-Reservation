@@ -19,16 +19,16 @@ of the online bus ticket system is to provide another way for transnational cust
 their tickets.
 ### UML DIAGRAMS:
 ### UseCase Diagram:
-![image](https://github.com/user-attachments/assets/1f884ca4-6336-46ba-9cbf-b217f43dc40a)
+![Screenshot 2025-05-19 122524](https://github.com/user-attachments/assets/f947e85c-9751-4149-a4fe-0e5ef20a2235)
 ### Class Diagram:
-![image](https://github.com/user-attachments/assets/9d1cba4b-0952-4b6d-8936-a8a17b577c36)
+![Screenshot 2025-05-19 122549](https://github.com/user-attachments/assets/1fca64bc-a485-42a9-8e1f-d08bc3ae2e3f)
 ### Activity Diagram:
-![image](https://github.com/user-attachments/assets/d52ff3cd-12b8-4815-aa23-e60330ea883a)
+![Screenshot 2025-05-19 122617](https://github.com/user-attachments/assets/7f2c6857-d2ec-4f0c-b007-50608c3759a8)
 ### Package Diagram:
-![image](https://github.com/user-attachments/assets/78e343e7-8e3b-4d2a-bb65-6bdf0a6dffb7)
+![Screenshot 2025-05-19 122644](https://github.com/user-attachments/assets/bdf917c0-7eec-44cf-86cf-bbd9bf9bbae1)
 ### Communication Diagram:
-![image](https://github.com/user-attachments/assets/252a0d48-5288-437c-8d3a-86d43859c59a)
+![Screenshot 2025-05-19 122702](https://github.com/user-attachments/assets/96352970-60e8-48bd-a3ea-e29145aba541)
 ### Sequence Diagram:
-![image](https://github.com/user-attachments/assets/a59b93e3-c429-4f4c-8ea7-95651b81b85d)
+![Screenshot 2025-05-19 122724](https://github.com/user-attachments/assets/e3e89afc-5fc4-4367-a0ed-1bbbc1636d98)
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
